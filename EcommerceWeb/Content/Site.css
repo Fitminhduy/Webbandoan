@@ -1,0 +1,25 @@
+﻿@import url('Site.css');
+body {
+    /*padding-top: 50px;*/
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+*
+
+
+.content {
+    text-align:center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/*.gallery:hover {
+    border: 2px solid #777;
+}*/
